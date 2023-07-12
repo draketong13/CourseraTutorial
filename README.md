@@ -1,3 +1,3 @@
 # CourseraTutorial
 ## Week 6 Tutorial
-### Working with notebook and share in Github
+### Working with jupyter notebook and share it in Github
